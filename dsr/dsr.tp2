@@ -10,8 +10,8 @@ README ~dsr/readme/dsr-readme-%LANGUAGE%.txt~ ~dsr/readme/dsr-readme-english.txt
 ALWAYS
 
 	/* Converts tra files to UTF-8 */
-	ACTION_DEFINE_ARRAY tin_reload BEGIN setup.tra END
-	ACTION_DEFINE_ARRAY tin_noconvert BEGIN END
+	ACTION_DEFINE_ARRAY tin_reload BEGIN setup END
+	ACTION_DEFINE_ARRAY tin_noconvert BEGIN install END
 	LAF HANDLE_CHARSETS
 		INT_VAR
 			infer_charsets = 1
@@ -50,7 +50,7 @@ LANGUAGE ~Deutsch (Uebersetzung von Jarl)~
 
 LANGUAGE ~Chinese~
 		 ~schinese~
-         ~dsr/lang/schinese/setup.tra~
+         ~dsr/lang/schinese/install.tra~
 
 /* ================================================================ *
  *    Demon Summoning Ritual - (Unholy Gate Opening Ritual Book)    *
