@@ -2,13 +2,13 @@
 @1 = ~Diese Mod benoetigt BG2:TdB; BGT, BG2:EE, oder EET.~
 
 @11 = ~Seltsames Buch~
-@12 = ~Unheiliges Ritual der Portalöffnung~ 
-@13 = ~Die Schriftzeichen auf den Seiten dieses Buches glühen in einem unheimlichen roten Licht. Vermutlich besitzt dieser Gegenstand große Macht.~
-@14 = ~Dieses Buch strahlt eine dunkle und mächtige Magie aus. Es wurde in der Sprache der Hocharkanen mit Dämonenblut geschrieben und ist, wenn die Inschriften die Wahrheit sagen, in der Lage, einen Kanal zwischen der materiellen Ebene und den äußeren dämonischen Ebenen herzustellen, umso verschiedenste Arten von Dämonen zu beschwören, die aus Hass auf ihren Beschwörer sofort zu wüten beginnen. Am Ende des Buches steht eine Warnung an den Beschwörer, die darauf hinweist, dass sich das planare Portal durch den Körper des Zaubernden öffnen kann, was ohne Schutzzauber den sofortigen Tod zur Folge hätte. Die Anwendung des Rituals erfordert eine ungeheure Willenskraft.
+@12 = ~Unheiliges Ritual der PortalÃ¶ffnung~ 
+@13 = ~Die Schriftzeichen auf den Seiten dieses Buches glÃ¼hen in einem unheimlichen roten Licht. Vermutlich besitzt dieser Gegenstand groÃŸe Macht.~
+@14 = ~Dieses Buch strahlt eine dunkle und mÃ¤chtige Magie aus. Es wurde in der Sprache der Hocharkanen mit DÃ¤monenblut geschrieben und ist, wenn die Inschriften die Wahrheit sagen, in der Lage, einen Kanal zwischen der materiellen Ebene und den Ã¤uÃŸeren dÃ¤monischen Ebenen herzustellen, umso verschiedenste Arten von DÃ¤monen zu beschwÃ¶ren, die aus Hass auf ihren BeschwÃ¶rer sofort zu wÃ¼ten beginnen. Am Ende des Buches steht eine Warnung an den BeschwÃ¶rer, die darauf hinweist, dass sich das planare Portal durch den KÃ¶rper des Zaubernden Ã¶ffnen kann, was ohne Schutzzauber den sofortigen Tod zur Folge hÃ¤tte. Die Anwendung des Rituals erfordert eine ungeheure Willenskraft.
 
 EIGENSCHAFTEN:
 
-Der Träger kann 1x pro Tag einen Dämon für 15 Runden beschwören.
+Der TrÃ¤ger kann 1x pro Tag einen DÃ¤mon fÃ¼r 15 Runden beschwÃ¶ren.
 
 Mindestweisheit: 16
 Gewicht: 2

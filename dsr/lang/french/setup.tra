@@ -5,16 +5,16 @@
 @1  = ~Ce mod n'est pas disponible pour votre jeu.~
 
 
-@11 = ~Livre étrange~
+@11 = ~Livre Ã©trange~
 @12 = ~Rituel d'ouverture de Portail impie~
-@13 = ~L’écriture sur les pages de ce livre luit d’une sinistre clarté rouge. L’objet doit avoir de grands pouvoirs comme vous vous en doutez. ~
-@14 = ~Ce livre irradie une sombre et puissante magie. Il a été écrit avec du sang de démon dans le langage des hautes arcanes et il est capable (si les inscriptions sont vraies) d’établir un canal entre le plan primaire et les plans inférieurs, en convoquant plusieurs types de démons, qui dévasteront immédiatement tout, ne supportant pas d’avoir été ainsi ramenés sur les plans primaires.
-À la fin de la brochure, un post-scriptum prévient l'invocateur de la possibilité que le portail s’ouvre au travers du corps du magicien, provoquant une mort instantanée, s’il/elle ne réussi pas un jet de sauvegarde contre les sorts. L’utilisation du rituel requiert une sagesse considérable, aussi seulement seuls ceux ayant une sagesse d’au minimum 16 peuvent l’utiliser.
+@13 = ~Lâ€™Ã©criture sur les pages de ce livre luit dâ€™une sinistre clartÃ© rouge. Lâ€™objet doit avoir de grands pouvoirs comme vous vous en doutez. ~
+@14 = ~Ce livre irradie une sombre et puissante magie. Il a Ã©tÃ© Ã©crit avec du sang de dÃ©mon dans le langage des hautes arcanes et il est capable (si les inscriptions sont vraies) dâ€™Ã©tablir un canal entre le plan primaire et les plans infÃ©rieurs, en convoquant plusieurs types de dÃ©mons, qui dÃ©vasteront immÃ©diatement tout, ne supportant pas dâ€™avoir Ã©tÃ© ainsi ramenÃ©s sur les plans primaires.
+Ã€ la fin de la brochure, un post-scriptum prÃ©vient l'invocateur de la possibilitÃ© que le portail sâ€™ouvre au travers du corps du magicien, provoquant une mort instantanÃ©e, sâ€™il/elle ne rÃ©ussi pas un jet de sauvegarde contre les sorts. Lâ€™utilisation du rituel requiert une sagesse considÃ©rable, aussi seulement seuls ceux ayant une sagesse dâ€™au minimum 16 peuvent lâ€™utiliser.
 
-PARAMÈTRES :
+PARAMÃˆTRES :
 
-Capacité de charge :
-- Invoque un démon une fois par jour pendant 15 rounds.
+CapacitÃ© de charge :
+- Invoque un dÃ©mon une fois par jour pendant 15 rounds.
 
 Sagesse requise : 16
 Poids : 2

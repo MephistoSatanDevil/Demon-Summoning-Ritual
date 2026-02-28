@@ -5,11 +5,11 @@
 @9002 =~[Nn]on[ %tab%]+[Uu]tilizzabile[ %tab%]+[Da]a[ %tab%]*:~
 
 @11 = ~Strano libro~
-@12 = ~Rituale di Apertura dell’Empio Portale~
-@13 = ~La grafia sulle pagine di questo libro brilla di una raccapricciante luce rossa. Tutto ciò ti fa pensare che questo oggetto deve avere grandi poteri.~
-@14 = ~Questo libro é irradiato da un’oscura e potente magia. E’ stato scritto con il sangue di un Demone in un linguaggio arcano ed é in grado (se l’iscrizione é vera) di stabilire un collegamento tra il primo piano materiale ed i piani demoniaci esterni, e quindi di evocare diversi tipi di demoni, che andranno subito su tutte le furie, seccati di essere stati evocati nei piani primari. C’è un post scriptum alla fine del libro che avvisa gli evocatori della possibilità che il portale potrebbe aprirsi attraverso il corpo del mago, causandogli immediatamente la morte a meno che a lui/lei non riesce un tiro salvezza contro incantesimi. L’uso del rituale richiede una considerevole forza di volontà così solo chi ha una saggezza pari o superiore a 16 può usarlo.
+@12 = ~Rituale di Apertura dellâ€™Empio Portale~
+@13 = ~La grafia sulle pagine di questo libro brilla di una raccapricciante luce rossa. Tutto ciÃ² ti fa pensare che questo oggetto deve avere grandi poteri.~
+@14 = ~Questo libro Ã© irradiato da unâ€™oscura e potente magia. Eâ€™ stato scritto con il sangue di un Demone in un linguaggio arcano ed Ã© in grado (se lâ€™iscrizione Ã© vera) di stabilire un collegamento tra il primo piano materiale ed i piani demoniaci esterni, e quindi di evocare diversi tipi di demoni, che andranno subito su tutte le furie, seccati di essere stati evocati nei piani primari. Câ€™Ã¨ un post scriptum alla fine del libro che avvisa gli evocatori della possibilitÃ  che il portale potrebbe aprirsi attraverso il corpo del mago, causandogli immediatamente la morte a meno che a lui/lei non riesce un tiro salvezza contro incantesimi. Lâ€™uso del rituale richiede una considerevole forza di volontÃ  cosÃ¬ solo chi ha una saggezza pari o superiore a 16 puÃ² usarlo.
 
-Abilità Speciali:
+AbilitÃ  Speciali:
 - Evoca un demone una volta al giorno per 15 round.
 
 Richiede: 16 alla Saggezza
@@ -25,9 +25,9 @@ Utilizzabile da:
 
 // WeiDU prompts
 @-1000= "Il mod %TP2_FILE_NAME% ha"
-@-1001= "diversi componenti opzionali.\nPer far prima, si può scegliere di applicare una medesima azione a tutti i componenti piuttosto che trattarli singolarmente..\n"
+@-1001= "diversi componenti opzionali.\nPer far prima, si puÃ² scegliere di applicare una medesima azione a tutti i componenti piuttosto che trattarli singolarmente..\n"
 @-1002= "Che cosa vuoi fare con quei componenti NON ANCORA installati?\n[I] Installarli,  [S] Saltarli, [A] Trattarli singolarmente?"
-@-1003= "Che cosa vuoi fare con quei componenti GIÀ installati?\n[R] Reinstallarli, [U] Rimuoverli, [S] Saltarli, [A] Trattarli singolarmente? "
+@-1003= "Che cosa vuoi fare con quei componenti GIÃ€ installati?\n[R] Reinstallarli, [U] Rimuoverli, [S] Saltarli, [A] Trattarli singolarmente? "
 
 @-1004= "Fai una copia di backup del file:"
 @-1005= "e cerca aiuto qui:"
@@ -71,7 +71,7 @@ Utilizzabile da:
 @-1035= "in Lingua"
 
 @-1036= "Salto il GRUPPO ["
-@-1037= "] perchè non conforme ai requisiti richiesti."
+@-1037= "] perchÃ¨ non conforme ai requisiti richiesti."
 
 @-1038= "[A] Trattare singoli componenti, [S] Saltare tutto, o scegliere una alternativa predefinita:"
 @-1039= "[A] Trattare singoli componenti, [R] Reinstallare la configurazione corrente, [U] Rimuovere tutto, [S] Saltare tutto, o scegliere una alternativa predefinita:"
@@ -92,6 +92,6 @@ Utilizzabile da:
 @-1053= "Russo"
 @-1054= "Ucraino"
 
-@-1060= "\nQuesto gioco è disponibile in diverse Lingue, ma WeiDU non sa quale Lingua è stata scelta quando questa modifica è stata installata.\n\nIndica quale Lingua era in uso al momento dell'installazione di questa modifica. La tua scelta rimarrà valida fintanto che WeiDU è attivo ma non può essere salvata permanentemente.\n"
+@-1060= "\nQuesto gioco Ã¨ disponibile in diverse Lingue, ma WeiDU non sa quale Lingua Ã¨ stata scelta quando questa modifica Ã¨ stata installata.\n\nIndica quale Lingua era in uso al momento dell'installazione di questa modifica. La tua scelta rimarrÃ  valida fintanto che WeiDU Ã¨ attivo ma non puÃ² essere salvata permanentemente.\n"
 @-1061= "\nSto usando"
 @-1062= " e "
